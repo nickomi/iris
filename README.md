@@ -1,1 +1,1 @@
-# six
+# Learning project
